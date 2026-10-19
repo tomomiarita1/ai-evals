@@ -14,6 +14,7 @@ _Paste the output from the Version A chat._
 ## Version B output
 
 _Paste the output from the Version B chat._
+
 Q4 marketing is building strong momentum. Social media engagement climbed 25% month-over-month, a clear win driven by the team's new content calendar and paid ad experiments. Creative assets for the upcoming product video campaign are complete and ready to go. There are two areas to watch. The newsletter open rate dipped from 42% to 35%, and the team is responding quickly with new subject line tests next week. The product video campaign has shifted to November while it awaits legal approval. To keep measurement on track, all campaign tracking links are due by Friday, setting the team up for a strong quarter finish.
 
 ## Judge scores
