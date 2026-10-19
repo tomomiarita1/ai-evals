@@ -22,6 +22,10 @@ _Which model judged them, then the judge's reply:_
 _Version A: 1 or 0, one-sentence reason_
 _Version B: 1 or 0, one-sentence reason_
 
+Version A: 1, Concise and faithful to the email, preserving all key results, the newsletter decline and planned test, the legal approval delay, and the Friday deadline.
+
+Version B: 0, Wordy and adds unsupported claims that marketing is building strong momentum, the team is responding quickly, and the actions are setting the team up for a strong quarter finish.
+
 ## Do you agree with the judge?
 
 _One line per version: agree or disagree, and why._
