@@ -30,3 +30,5 @@ Version B: 0, Wordy and adds unsupported claims that marketing is building stron
 ## Do you agree with the judge?
 
 _One line per version: agree or disagree, and why._
+
+I agree with the judge scores with the reasons included. 
