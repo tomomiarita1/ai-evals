@@ -7,6 +7,9 @@
 ## Version A output
 
 _Paste the output from the Version A chat._
+- Social media engagement up 25% month-over-month, driven by the new content calendar and paid ad experiments.
+- Newsletter open rate fell from 42% to 35%; new subject lines will be tested next week.
+- Product video campaign delayed to November pending legal approval (creative ready); all campaign tracking links due Friday.
 
 ## Version B output
 
