@@ -29,7 +29,7 @@
 
 ## Where the failure was caught
 
-The check indicates that the safety rule missed number 7. However, I consider that the number 7 belongs to the Rule check and Judge instead. I expect the Rule check Judge to be caught 9 of 9 instead. 
+The check caught 8 out of 8 for both Rule check and Judge. The check appears to be sufficient except that item 7 was not caught. It should be caught with Rules check and Judge instead. I am not clear on how the Safety rule functions in this scenario. 
 
 ## What I'd ship next
 
