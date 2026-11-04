@@ -24,4 +24,4 @@ We’ve flagged Robustness as the most critical gap for AI Voice Agent because h
 
 ## After the Pressure Test
 
-I changed my answer. I lowest UX trust from Fairness. The analysis with 04 prompt identified that UX Trust isn't law risk. 
+I changed my answer for the lowest from UX trust to Fairness. The analysis with 04 prompt identified that UX Trust isn't low risk. 
