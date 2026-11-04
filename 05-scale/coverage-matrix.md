@@ -4,7 +4,7 @@
 
 | Product | Hallucination Rate | Fairness | Latency | UX Trust | Robustness |
 |---|---|---|---|---|---|
-| AI Voice Agent | ✅ Covered | ❌ Gap | ✅ Covered | ⚠️ Partial | ❌ Gap |
+| AI Voice Agent | ⚠️ Partial | ❌ Gap | ❌ Gap | ⚠️ Partial | ⚠️ Partial |
 
 ## What Runs Today
 
@@ -14,14 +14,14 @@
 
 ## Accepted Gap
 
-**Fairness.** We accept this gap because we indicates that this is an AI agent and our customer will give a bit more leeway on tone as long as the information is accurate. 
+**Fairness.** We accept this gap because the agent only handles basic calls and any caller can reach a person. 
 
-We’ll look again: We will look at it again if our customers report the tone issue in a significant volume. 
+We’ll look again: We’ll look again if escalation or hang-up rates for any caller language or region run 5+ points above the overall rate, or at the next quarterly review.
 
 ## Critical Gap
 
-We’ve flagged Robustness as the most critical gap for AI Voice Agent because having the AI agent is to cover all the inquiries around billing questions. If it does not answer the questions, it defeats the purpose and less people will try using the application. 
+We’ve identified latency as the most critical gap for the AI Voice Agent. Users expect timely answers. If responses are slow, they’ll hang up and call a person instead. To close it, we’ll add a drift monitor on response time per call turn, alerting when p95 goes above 2 seconds over a rolling hour. We’ll also add a latency threshold to the release eval gate, blocking release if p95 on the 300-question set goes above 2 seconds. When the alert fires, the on-call engineer is paged.
 
 ## After the Pressure Test
 
-I changed my answer for the lowest from UX trust to Fairness. The analysis with 04 prompt identified that UX Trust isn't low risk. 
+I changed the answers multiple times due to not following the intent of the lab initially. Corrected Latency to ❌ and Robustness and Hallucination to ⚠️. Rewrote the Fairness rationale (it was about tone) and replaced the complaint trigger with a measurable escalation-rate trigger. Moved the critical gap from Robustness to Latency and added a specific check, threshold and frequency.
