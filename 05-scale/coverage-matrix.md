@@ -20,7 +20,7 @@ We’ll look again: We will look at it again if our customers report the tone is
 
 ## Critical Gap
 
-We’ve flagged Robustness as the most critical gap for AI Voice Agent because having the AI agent is to cover all the inquiries around billing questions. If it does not answer the questions, it defeat its purpose and less people will try using the application. 
+We’ve flagged Robustness as the most critical gap for AI Voice Agent because having the AI agent is to cover all the inquiries around billing questions. If it does not answer the questions, it defeats the purpose and less people will try using the application. 
 
 ## After the Pressure Test
 
