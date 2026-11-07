@@ -4,7 +4,7 @@
 | --------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Target risk     | Inaccrate data (#HALLUCINATION), an output risk                                                                    |
 | Evaluator       | The rule check from Lab 1                                                                                          |
-| Threshold       | 100% accuray, zero tolerance. The rule check caught 8 of 8, the safety rule caught 0 of 1, the judge caught 8 of 8 |
+| Threshold       | 100% accuracy, zero tolerance. The rule check caught 8 of 8, the safety rule caught 0 of 1, the judge caught 8 of 8 |
 | Business stakes | The cost of failure, such as churn, a lawsite or damange to teh brand                                              |
 | Owner           | PM                                                                                                                 |
 
